@@ -1,0 +1,16 @@
+down
+down
+down
+down
+right
+var A = getColor()
+down
+setColor(A)
+right
+up
+right
+var A = getColor()
+down
+setColor(A)
+right
+right
