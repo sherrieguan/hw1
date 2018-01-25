@@ -1,0 +1,35 @@
+function downEightTimes {
+  down
+  down
+  down
+  down
+  down
+  down
+  down
+  down
+}
+function upEightTimes {
+  up
+  up
+  up
+  up
+  up
+  up
+  up
+  up
+}
+
+downEightTimes
+right
+right
+upEightTimes
+right
+right
+downEightTimes
+right
+right
+upEightTimes
+right
+right
+downEightTimes
+right
