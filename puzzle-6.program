@@ -1,0 +1,25 @@
+right
+function move(){
+  var A = getColor()
+  If (A == "pink"){left}
+  If (A == "blue"){right}
+  up
+ }
+ right
+ up
+ up
+ move
+ 
+ 
+ right
+function move(){
+  var A = getColor()
+  If (A == "pink"){left}
+  If (A == "blue"){right}
+ }
+ up
+ right
+ up
+ up
+ move
+ up
