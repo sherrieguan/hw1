@@ -1,0 +1,24 @@
+While (getColor = "white"){
+  down
+}
+right
+right
+While (getColor = "white"){
+  up
+}
+right
+right
+While (getColor = "white"){
+  down
+}
+right
+right
+While (getColor = "white"){
+  up
+}
+right
+right
+While (getColor = "white"){
+  down
+}
+right
