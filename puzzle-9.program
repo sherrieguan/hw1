@@ -1,0 +1,33 @@
+function downFourTimes {
+  down
+  down
+  down
+  down
+}
+function upFourTimes {
+  up
+  up
+  up
+  up
+}
+function rightSixTimes {
+  right
+  right
+  right
+  right
+  right
+  right
+}
+function leftSixTimes {
+  left
+  left
+  left
+  left
+  left
+  left
+}
+
+downFourTimes
+rightSixTimes
+upFourTimes
+leftSixTimes
