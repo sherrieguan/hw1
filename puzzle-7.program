@@ -1,24 +1,19 @@
-While (getColor = "white"){
+function moveDown(){
+  While (getColor = "white"){
   down
+  }
+  right
 }
 right
-right
-While (getColor = "white"){
+function moveUp(){
+  While (getColor = "white"){
   up
+  }
+  right
 }
 right
+moveDown
 right
-While (getColor = "white"){
-  down
-}
+moveUp
 right
-right
-While (getColor = "white"){
-  up
-}
-right
-right
-While (getColor = "white"){
-  down
-}
-right
+moveDown
