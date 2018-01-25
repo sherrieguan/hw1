@@ -1,13 +1,15 @@
-right
-right
 function move(){
   var A = getColor()
   If (A == "pink"){up}
   If (A == "blue"{down}
   right
   right
- }
- move
- move
- move
- right
+}
+ 
+right
+right
+move
+move
+move
+move
+right
