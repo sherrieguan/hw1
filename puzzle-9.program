@@ -1,28 +1,20 @@
-function downFourTimes {
+var steps = 0
+While (steps < 9){
   down
-  down
-  down
-  down
+  steps = steps + 1
 }
-function rightSixTimes {
+var steps = 0
+While (steps < 9){
   right
-  right
-  right
-  right
-  right
-  right
+  steps = steps + 1
 }
-function upFourTimes {
+var steps = 0
+While (steps < 9){
   up
-  up
-  up
-  up
+  steps = steps + 1
 }
-function leftSixTimes {
+var steps = 0
+While (steps < 9){
   left
-  left
-  left
-  left
-  left
-  left
+  steps = steps + 1
 }
