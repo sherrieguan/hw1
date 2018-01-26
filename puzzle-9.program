@@ -4,12 +4,6 @@ function downFourTimes {
   down
   down
 }
-function upFourTimes {
-  up
-  up
-  up
-  up
-}
 function rightSixTimes {
   right
   right
@@ -17,6 +11,12 @@ function rightSixTimes {
   right
   right
   right
+}
+function upFourTimes {
+  up
+  up
+  up
+  up
 }
 function leftSixTimes {
   left
@@ -26,8 +26,3 @@ function leftSixTimes {
   left
   left
 }
-
-downFourTimes
-rightSixTimes
-upFourTimes
-leftSixTimes
