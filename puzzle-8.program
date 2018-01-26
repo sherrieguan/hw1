@@ -7,7 +7,9 @@ function downEightTimes {
   down
   down
   down
+  right
 }
+right
 function upEightTimes {
   up
   up
@@ -17,19 +19,11 @@ function upEightTimes {
   up
   up
   up
+  right
 }
-
-downEightTimes
 right
+downEightTimes
 right
 upEightTimes
 right
-right
 downEightTimes
-right
-right
-upEightTimes
-right
-right
-downEightTimes
-right
