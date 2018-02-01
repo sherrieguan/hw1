@@ -1,29 +1,34 @@
-function downEightTimes {
-  down
-  down
-  down
-  down
-  down
-  down
-  down
-  down
-  right
+function downEightTimes() {
+  down();
+  down();
+  down();
+  down();
+  down();
+  down();
+  down();
+  down();
+  right();
 }
-right
-function upEightTimes {
-  up
-  up
-  up
-  up
-  up
-  up
-  up
-  up
-  right
+
+function upEightTimes() {
+  up();
+  up();
+  up();
+  up();
+  up();
+  up();
+  up();
+  up();
+  right();
 }
-right
-downEightTimes
-right
-upEightTimes
-right
-downEightTimes
+
+
+downEightTimes();
+right();
+upEightTimes();
+right();
+downEightTimes();
+right();
+upEightTimes();
+right();
+downEightTimes();
