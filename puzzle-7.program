@@ -1,19 +1,27 @@
 function moveDown(){
-  While (getColor = "white"){
-  down
+  while (getColor() != "red") {
+  down();
   }
-  right
 }
-right
+
 function moveUp(){
-  While (getColor = "white"){
-  up
+  while (getColor() != "red"){
+  up();
   }
-  right
 }
-right
-moveDown
-right
-moveUp
-right
-moveDown
+
+
+moveDown();
+right();
+right();
+moveUp();
+right();
+right();
+moveDown();
+right();
+right();
+moveUp();
+right();
+right();
+moveDown();
+right();
