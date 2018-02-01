@@ -1,17 +1,16 @@
-right
-right
-function move(){
+right();
+right();
+function move() {
   var A = getColor()
-  If (A == "pink"){
-  up
+  if (A == "red") {
+  up();
+  } else {
+  down();
   }
-  If (A == "blue"{
-  down
-  }
-  right
-  right
+  right();
+  right();
 }
-move
-move
-move
-right
+move();
+move();
+move();
+right();
